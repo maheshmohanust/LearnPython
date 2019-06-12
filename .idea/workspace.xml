@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9aa11506-467e-47c2-bb3d-4f6a0779fb4a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/GeneratorExample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/MyPythonPrograms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MyPythonPrograms.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPrograms.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyPrograms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PlayingWithList.py" beforeDir="false" afterPath="$PROJECT_DIR$/PlayingWithList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Solution_Testing_Forked/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Solution_Testing_Forked/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,10 +37,13 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PlayingWithList.py">
+        <entry file="file://$PROJECT_DIR$/MyPrograms.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            <state relative-caret-position="88">
+              <caret line="42" column="23" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -54,7 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/MyPrograms.py" />
         <option value="$PROJECT_DIR$/LambdaSamples.py" />
         <option value="$PROJECT_DIR$/CustomException.py" />
         <option value="$PROJECT_DIR$/MyExceptionExample.py" />
@@ -62,7 +70,10 @@
         <option value="$PROJECT_DIR$/ScaleBalancing.py" />
         <option value="$PROJECT_DIR$/CharacterCount.py" />
         <option value="$PROJECT_DIR$/SecondLargestElement.py" />
+        <option value="$PROJECT_DIR$/StringsInList.py" />
         <option value="$PROJECT_DIR$/PlayingWithList.py" />
+        <option value="$PROJECT_DIR$/GeneratorExample.py" />
+        <option value="$PROJECT_DIR$/MyPrograms.py" />
       </list>
     </option>
   </component>
@@ -78,6 +89,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -89,7 +101,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -110,8 +121,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.SecondLargestElement">
-    <configuration name="CharacterCount" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.MyPrograms">
+    <configuration name="GeneratorExample" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MyPythonPrograms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,7 +135,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CharacterCount.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GeneratorExample.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LambdaSamples" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="MyPrograms" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MyPythonPrograms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,7 +157,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LambdaSamples.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyPrograms.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,7 +166,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MoreOnExceptions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="PlayingWithList" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MyPythonPrograms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -168,7 +179,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MoreOnExceptions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PlayingWithList.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,7 +210,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SecondLargestElement" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="StringsInList" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MyPythonPrograms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -212,7 +223,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SecondLargestElement.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StringsInList.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,11 +234,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.SecondLargestElement" />
-        <item itemvalue="Python.CharacterCount" />
+        <item itemvalue="Python.MyPrograms" />
+        <item itemvalue="Python.GeneratorExample" />
+        <item itemvalue="Python.PlayingWithList" />
         <item itemvalue="Python.ScaleBalancing" />
-        <item itemvalue="Python.LambdaSamples" />
-        <item itemvalue="Python.MoreOnExceptions" />
+        <item itemvalue="Python.StringsInList" />
       </list>
     </recent_temporary>
   </component>
@@ -248,22 +259,24 @@
       <workItem from="1559832460389" duration="5681000" />
       <workItem from="1559901683304" duration="154000" />
       <workItem from="1560055389202" duration="1977000" />
+      <workItem from="1560062673167" duration="76000" />
+      <workItem from="1560330359199" duration="4345000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15592000" />
+    <option name="totallyTimeSpent" value="20626000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49822694" visible="true" weight="0.21907842" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49822694" visible="true" weight="0.22554567" />
       <window_info id="Structure" order="1" sideWeight="0.5026455" side_tool="true" weight="0.25383994" />
       <window_info id="Favorites" order="2" sideWeight="0.50177306" side_tool="true" weight="0.25383994" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27482268" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27482268" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39893618" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -296,10 +309,14 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MyPythonPrograms$StringsInList.coverage" NAME="StringsInList Coverage Results" MODIFIED="1560330965821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyPythonPrograms$MyPrograms.coverage" NAME="MyPrograms Coverage Results" MODIFIED="1560334730864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyPythonPrograms$CharacterCount.coverage" NAME="CharacterCount Coverage Results" MODIFIED="1559838065389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyPythonPrograms$PlayingWithList.coverage" NAME="PlayingWithList Coverage Results" MODIFIED="1560332786735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyPythonPrograms$LambdaSamples.coverage" NAME="LambdaSamples Coverage Results" MODIFIED="1559813150861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MyPythonPrograms$ScaleBalancing.coverage" NAME="ScaleBalancing Coverage Results" MODIFIED="1559815633989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyPythonPrograms$ScaleBalancing.coverage" NAME="ScaleBalancing Coverage Results" MODIFIED="1560332536408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyPythonPrograms$MoreOnExceptions.coverage" NAME="MoreOnExceptions Coverage Results" MODIFIED="1559804176186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyPythonPrograms$GeneratorExample.coverage" NAME="GeneratorExample Coverage Results" MODIFIED="1560334163355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyPythonPrograms$SecondLargestElement.coverage" NAME="SecondLargestElement Coverage Results" MODIFIED="1559900567924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
@@ -308,16 +325,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyPrograms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -349,13 +356,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ScaleBalancing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SecondLargestElement.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
@@ -378,10 +378,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/StringsInList.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-1055577769/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="4940" column="8" lean-forward="true" selection-start-line="4940" selection-start-column="8" selection-end-line="4940" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScaleBalancing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/PlayingWithList.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        <state relative-caret-position="338">
+          <caret line="18" column="54" lean-forward="true" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GeneratorExample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyPrograms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="42" column="23" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
