@@ -45,7 +45,6 @@ def outer(x):
             result += x * n
             n -= 1
         return result
-
     return inner
 
 

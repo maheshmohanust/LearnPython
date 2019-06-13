@@ -1,20 +1,21 @@
-def simple_generator():
-    yield "Mahesh"
-    yield "Meenu"
-    yield "Adithi"
-    yield "Avni"
+class Gen:
+    def simple_generator(self):
+        yield "Mahesh"
+        yield "Meenu"
+        yield "Adithi"
+        yield "Avni"
+
+    def number_generator(self):
+        for j in range(11):
+            yield j
 
 
-def number_generator():
-    for j in range(101):
-        yield j
-
-
-x = simple_generator()
-for i in x:
+x = Gen()
+k = x.simple_generator()
+for i in k:
     print(i)
 
-for value in number_generator():
+for value in x.number_generator():
     print(value)
 
 # print(x.__next__()); # In Python 3, __next__()
