@@ -35,3 +35,18 @@ h.print_json()
 lam = h.x(10)
 print(lam)
 
+
+def outer(x):
+    result = 0
+
+    def inner(n):
+        nonlocal result
+        while n > 0:
+            result += x * n
+            n -= 1
+        return result
+    return inner
+
+
+myfunc = outer(7)
+print(myfunc(5))
