@@ -25,5 +25,5 @@ def find_water_level(quant1, quant2):
         return False
 
 
-print("Water Levels: ")
+print("Water Levels:")
 find_water_level(0, 0)
