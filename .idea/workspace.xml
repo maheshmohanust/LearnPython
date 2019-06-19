@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9aa11506-467e-47c2-bb3d-4f6a0779fb4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonDirFunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WaterJugPuzzle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MoreOnDecorators.py" beforeDir="false" afterPath="$PROJECT_DIR$/MoreOnDecorators.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Solution_Testing_Forked/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Solution_Testing_Forked/.idea/workspace.xml" afterDir="false" />
@@ -34,10 +33,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PythonDirFunction.py">
+        <entry file="file://$PROJECT_DIR$/WaterJugPuzzle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="42" column="18" lean-forward="true" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+            <state relative-caret-position="311">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -72,13 +71,14 @@
         <option value="$PROJECT_DIR$/GeneratorExample.py" />
         <option value="$PROJECT_DIR$/AdvancedPrograms.py" />
         <option value="$PROJECT_DIR$/MyPrograms.py" />
-        <option value="$PROJECT_DIR$/MoreOnDecorators.py" />
         <option value="$PROJECT_DIR$/Factorial.py" />
         <option value="$PROJECT_DIR$/PythonDirFunction.py" />
+        <option value="$PROJECT_DIR$/MoreOnDecorators.py" />
+        <option value="$PROJECT_DIR$/WaterJugPuzzle.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="15" />
     <option name="y" value="30" />
     <option name="width" value="1890" />
@@ -90,6 +90,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -101,7 +102,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -122,7 +122,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.PythonDirFunction">
+  <component name="RunManager" selected="Python.WaterJugPuzzle">
     <configuration name="AdvancedPrograms" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MyPythonPrograms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -159,28 +159,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Factorial.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="GeneratorExample" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="MyPythonPrograms" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GeneratorExample.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -233,13 +211,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="WaterJugPuzzle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MyPythonPrograms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WaterJugPuzzle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.WaterJugPuzzle" />
+        <item itemvalue="Python.MoreOnDecorators" />
         <item itemvalue="Python.PythonDirFunction" />
         <item itemvalue="Python.Factorial" />
-        <item itemvalue="Python.MoreOnDecorators" />
         <item itemvalue="Python.AdvancedPrograms" />
-        <item itemvalue="Python.GeneratorExample" />
       </list>
     </recent_temporary>
   </component>
@@ -262,12 +262,14 @@
       <workItem from="1560055389202" duration="1977000" />
       <workItem from="1560062673167" duration="76000" />
       <workItem from="1560330359199" duration="21374000" />
-      <workItem from="1560491741694" duration="6824000" />
+      <workItem from="1560491741694" duration="7352000" />
+      <workItem from="1560834470959" duration="1544000" />
+      <workItem from="1560933800378" duration="4723000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44479000" />
+    <option name="totallyTimeSpent" value="51274000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -282,12 +284,12 @@
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49822694" visible="true" weight="0.22554567" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49822694" visible="true" weight="0.23282135" />
       <window_info id="Structure" order="1" sideWeight="0.5026455" side_tool="true" weight="0.25383994" />
       <window_info id="Favorites" order="2" sideWeight="0.50177306" side_tool="true" weight="0.25383994" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32978722" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26241136" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.13829787" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39893618" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -320,9 +322,10 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MyPythonPrograms$WaterJugPuzzle.coverage" NAME="WaterJugPuzzle Coverage Results" MODIFIED="1560936529492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyPythonPrograms$StringsInList.coverage" NAME="StringsInList Coverage Results" MODIFIED="1560330965821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyPythonPrograms$MyPrograms.coverage" NAME="MyPrograms Coverage Results" MODIFIED="1560334730864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MyPythonPrograms$MoreOnDecorators.coverage" NAME="MoreOnDecorators Coverage Results" MODIFIED="1560492132334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyPythonPrograms$MoreOnDecorators.coverage" NAME="MoreOnDecorators Coverage Results" MODIFIED="1560837090594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyPythonPrograms$Sample.coverage" NAME="Sample Coverage Results" MODIFIED="1560362562095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyPythonPrograms$LambdaSamples.coverage" NAME="LambdaSamples Coverage Results" MODIFIED="1559813150861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyPythonPrograms$GeneratorExample.coverage" NAME="GeneratorExample Coverage Results" MODIFIED="1560400994755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -437,13 +440,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AdvancedPrograms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-1055577769/_lsprof.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
@@ -461,13 +457,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MoreOnDecorators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Factorial.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -477,8 +466,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PythonDirFunction.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="42" column="18" lean-forward="true" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+        <state relative-caret-position="196">
+          <caret line="42" column="18" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MoreOnDecorators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="40" column="46" selection-start-line="40" selection-start-column="46" selection-end-line="40" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdvancedPrograms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WaterJugPuzzle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
