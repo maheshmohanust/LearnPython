@@ -28,6 +28,31 @@ print(succ.fn_calls)
 print(mul.fn_calls)
 
 
+def get_strings(fn):
+    def find_numeral(string):
+        flag = True
+        for s in string:
+            if s.isdigit():
+                flag = False
+                break
+        if flag:
+            fn(string)
+        else:
+            print("Given string is not a name")
+            # raise Exception("Given string is not a name")
+
+    return find_numeral
+
+
+@get_strings
+def print_name(name):
+    print('Given name is ' + name)
+
+
+print_name("Mahesh")
+print_name("Sam123")
+
+
 # #  Using a decorator function to ensure that the argument passed to the function factorial is a positive integer
 
 
@@ -52,20 +77,6 @@ for i in range(1, 10):
     print(i, factorial(i))
 
 # print(factorial(-1))
-
-
-def our_decorator(func):
-    def function_wrapper(x):
-        return func(x)
-    return function_wrapper
-
-
-@our_decorator
-def succ(n):
-    return n + 1
-
-
-print(succ(10))
 
 
 def our_decorator(func):
