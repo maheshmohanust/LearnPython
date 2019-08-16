@@ -7,7 +7,7 @@ def find_count(string):
             if k not in my_dict:
                 my_dict[k] = 1
             else:
-                my_dict[k] = my_dict[k] + 1
+                my_dict[k] += 1
     return my_dict
 
 
